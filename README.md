@@ -11,3 +11,12 @@ Instrucciones:
 6. Sube a tu repositorio esta actividad.
 7. Coloca el link de tu repo en esta asignación. 
 8. ¡Listo, ya quedó!
+
+Ejercicio 2 HTML-Listas
+Instrucciones:
+1. Crea un nuevo archivo en Visual Studio Code llamado listas.html
+2. Realiza el ejercicio siguiendo las indicaciones de este documento (Links to an external site.)
+3. Sube esta actividad a tu repositorio "Ejercicios-HTML".
+4. Coloca el link de tu repo en esta asignación. 
+5. ¡Listo, ya quedó!
+
