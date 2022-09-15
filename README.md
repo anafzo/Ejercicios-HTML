@@ -20,3 +20,10 @@ Instrucciones:
 4. Coloca el link de tu repo en esta asignación. 
 5. ¡Listo, ya quedó!
 
+Ejercicio 3 HTML-Biografía
+Instrucciones:
+1. Crea un nuevo archivo en Visual Studio Code llamado bio.html
+3. Realiza el ejercicio siguiendo las indicaciones de este documento. (Enlaces a un sitio externo.) (Links to an external site.)
+4. Sube esta actividad a tu repositorio "Ejercicios-HTML".
+5. Coloca el link de tu repo en esta asignación. 
+6. ¡Listo, ya quedó!
